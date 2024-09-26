@@ -98,3 +98,6 @@ out/
 
 yarn.lock
 package-lock.json
+package-lock.json
+package.json
+renderer/next-env.d.ts
